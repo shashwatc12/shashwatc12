@@ -31,7 +31,7 @@
 - 💬 Ask me about data and drones 
 - 📫 How to reach me: [Twitter - @shashwatchavan](https://twitter.com/shashwatchavan) , [Youtube - @
 BirdsEyeVoyage](https://www.youtube.com/channel/UCFbKkucVCRK73ihsv2e5Kvw/featured)
-- ⚡ Fun fact: I have done Sky Diving , Bungee Jumping, Scuba Diving,River Rafting and manym ore in the 'Pipeline'
+- ⚡ Fun fact: I have done Sky Diving , Bungee Jumping, Scuba Diving,River Rafting and many more in the 'Pipeline'
 
 [![Twitter: Shashwatchavan](https://img.shields.io/twitter/follow/shashwatchavan?style=social)](https://twitter.com/shashwatchavan)
 [![Linkedin: Shashwatchavan](https://img.shields.io/badge/-shashwatchavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashwatchavan/)](https://www.linkedin.com/in/shashwatchavan/)
