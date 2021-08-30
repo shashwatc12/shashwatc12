@@ -35,7 +35,7 @@ BirdsEyeVoyage](https://www.youtube.com/channel/UCFbKkucVCRK73ihsv2e5Kvw/feature
 
 [![Twitter: Shashwatchavan](https://img.shields.io/twitter/follow/shashwatchavan?style=social)](https://twitter.com/shashwatchavan)
 [![Linkedin: Shashwatchavan](https://img.shields.io/badge/-shashwatchavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashwatchavan/)](https://www.linkedin.com/in/shashwatchavan/)
-[![GitHub Shashwatchavan](https://img.shields.io/github/followers/shashwatchavan?label=follow&style=social)](https://github.com/shashwatc12)
+[![GitHub Shashwatchavan](https://img.shields.io/github/followers/shashwatc12?label=follow&style=social)](https://github.com/shashwatc12)
 
 <div align="center">
 
