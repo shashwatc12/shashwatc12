@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning more about Advanced Power BI modelling/Leadrership skills/Data Engineering.
 - 👯 I’m looking to collaborate on Data projects and exploring new technologies
 - 💬 Ask me about data and drones 
-- 📫 How to reach me: [Twitter - @shashwatchavan](https://twitter.com/shashwatchavan) , [Youtube - @
+- 📫 How to reach me: [LinkedIn - @shashwatchavan](https://www.linkedin.com/in/shashwatchavan/),[Twitter - @shashwatchavan](https://twitter.com/shashwatchavan) , [Youtube - @
 BirdsEyeVoyage](https://www.youtube.com/channel/UCFbKkucVCRK73ihsv2e5Kvw/featured)
 - ⚡ Fun fact: I have done Sky Diving , Bungee Jumping, Scuba Diving,River Rafting and many more in the 'Pipeline'
 
