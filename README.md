@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently working on BI Enginnering/Analytics/Reporting/Project Management on insurance data.
-- 🌱 I’m currently learning more about Advanced Power BI modelling/Leadrership skills/Data Engineering.
+- 🌱 I’m currently learning more about Advanced Power BI modelling/Data Engineering/Leadrership skills.
 - 👯 I’m looking to collaborate on Data projects and exploring new technologies
 - 💬 Ask me about data and drones 
 - 📫 How to reach me: [LinkedIn - @shashwatchavan](https://www.linkedin.com/in/shashwatchavan/),[Twitter - @shashwatchavan](https://twitter.com/shashwatchavan) , [Youtube - @
