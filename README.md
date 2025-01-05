@@ -17,8 +17,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on BI Enginnering/Analytics/Reporting as a Technical Product Manager 
-- 🌱 Learning more about Technical Product Management, AI, Blockchain(Web3),Data Engineering and leadership skills.
+- 🔭 I’m currently working as a Data/Software Technical Program Manager 
+- 🌱 Learning more about Technical Product/Prgram Management, AI, Blockchain(Web3),Data Engineering. 
 - 👯 I’m looking to collaborate on Data projects and exploring new technologies
 - 💬 Ask me about data and drones 
 - 📫 How to reach me: [LinkedIn - @shashwatchavan](https://www.linkedin.com/in/shashwatchavan/),[Twitter - @shashwatchavan](https://twitter.com/shashwatchavan) , [Youtube - @
